@@ -15,11 +15,3 @@ An [Ansible](https://www.ansible.com) role to install/configure [cloud-init](htt
 ## License
 
 MIT
-
-## Author Information
-
-Larry Smith Jr.
-
--   [EverythingShouldBeVirtual](http://everythingshouldbevirtual.com)
--   [@mrlesmithjr](https://www.twitter.com/mrlesmithjr)
--   <mailto:mrlesmithjr@gmail.com>
