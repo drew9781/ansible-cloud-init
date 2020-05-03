@@ -1,5 +1,4 @@
 galaxy_info:
-  author: Larry Smith Jr.
   description: An Ansible role to install/configure cloud-init
 
   license: MIT
